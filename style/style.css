@@ -1,0 +1,165 @@
+header {
+    background-image: url(../images/banner/banner3.png);
+    background-position:bottom left;
+    background-repeat: no-repeat;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    height: 1200px;
+}
+.heder-main-contener {
+    display: flex;
+    width: 80%;
+}
+.heder-main-contener .header-content{
+    width: 50%;
+}
+.heder-blank{
+    width: 50%;
+}
+h1{
+    font-weight: 700;
+    color: #fff;
+    text-align: right;
+    font-size: 65px;
+}
+.pragrap-1{
+    color: #fff;
+
+}
+.press-button{
+        background: #fff;
+        color: #005fac;
+        border: 0;
+        margin-top: 30px;
+        border-radius: 7px;
+        font-size: 20px;
+        padding: 18px 20px;
+        cursor: pointer;
+        font-weight: 600;
+    }
+h2{
+    margin-bottom: 24px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+section.my-plans-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h2.my-h {
+   color: #151414;
+        font-weight: 700;
+        font-size: 40px;
+        margin: 50px;
+        text-align: center;
+        padding: 20px;
+    }
+.mplan{
+    margin: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.mplan image{
+    width: 100px;
+    margin-bottom: 25px;
+}
+.mplan h3{
+        color: #151414;
+        font-weight: 700;
+        font-size: 30px;
+}
+.mplan p{
+    font-weight: 500;
+    color: #737272;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+h3.subscribe {
+    color: #fff;
+    font-weight: 600;
+    font-size: 40px;
+}
+.subscribe-input input[type="email"] {
+    font-size: 18px;
+    padding: 20px 16px;
+    border-radius: 5px;
+    margin-top: 31px;
+}
+.subscribe-input input[type="submit"] {
+    margin-top: 18px;
+}
+section.fail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    margin-top: 20px;
+}
+.fail-image{
+    text-align: center;
+    margin-top: 20px;
+}
+.fail-con{
+    max-width: 420px;
+    width: 100%;
+    margin-left: 30px;
+}
+h3{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+}
+.last{
+    background-image: url(../images/watch.png), linear-gradient(90deg, #005fac 0%, rgba(241, 91, 34, 0) 100%);
+    width: 1070px;
+    padding: 80px 70px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding-right: 0;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.posetive{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+footer{
+    background: #151414;
+    width: 100%;
+    padding: 130px 0;
+    color: #fff;
+    display: flex;   
+}
+.footer-continer {
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
+.footer-left image{
+    width: 375px;
+    border-radius: 15px;
+}
+.footer-left{
+    width: 50%;
+}
+.footer-right{
+    width: 50%;
+}
+.subscribe-input input[type="email"] {
+    font-size: 18px;
+    padding: 20px 16px;
+    border-radius: 5px;
+    margin-top: 31px;
+}
+.subscribe-input input[type="submit"] {
+    margin-top: 18px;
+}
