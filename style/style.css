@@ -155,11 +155,11 @@ footer{
     width: 50%;
 }
 .subscribe-input input[type="email"] {
-    font-size: 18px;
+    font-size: 20px;
     padding: 20px 16px;
     border-radius: 5px;
     margin-top: 31px;
 }
 .subscribe-input input[type="submit"] {
-    margin-top: 18px;
+    margin-top: 20px;
 }
